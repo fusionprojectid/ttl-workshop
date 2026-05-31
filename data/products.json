@@ -1,0 +1,1356 @@
+[
+  {
+    "id": 1,
+    "name": "Kaos Dasar Premium",
+    "category": "Kaos",
+    "price": "Rp85.000",
+    "image": "assets/img/products/kaos-basic-1.webp",
+    "gallery": [
+      "assets/img/products/kaos-basic-1.webp",
+      "assets/img/products/kaos-basic-2.webp",
+      "assets/img/products/kaos-basic-3.webp"
+    ],
+    "label": "Terlaris",
+    "description": "Kaos basic dengan bahan nyaman untuk aktivitas harian.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Hitam",
+      "Putih",
+      "Cokelat"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kemeja Kasual Cokelat",
+    "category": "Kemeja",
+    "price": "Rp165.000",
+    "image": "assets/img/products/kemeja-brown-1.webp",
+    "gallery": [
+      "assets/img/products/kemeja-brown-1.webp",
+      "assets/img/products/kemeja-brown-2.webp",
+      "assets/img/products/kemeja-brown-3.webp"
+    ],
+    "label": "Produk Baru",
+    "description": "Kemeja kasual warna cokelat dengan potongan rapi untuk aktivitas semi formal.",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Cokelat",
+      "Krem",
+      "Hitam"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Jersi Tim Kustom",
+    "category": "Jersi",
+    "price": "Rp120.000",
+    "image": "assets/img/products/jersey-team-1.webp",
+    "gallery": [
+      "assets/img/products/jersey-team-1.webp",
+      "assets/img/products/jersey-team-2.webp",
+      "assets/img/products/jersey-team-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Jersi kustom untuk tim olahraga, komunitas, dan acara internal.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Emas"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Luaran Kanvas Ringan",
+    "category": "Luaran",
+    "price": "Rp210.000",
+    "image": "assets/img/products/outer-canvas-1.webp",
+    "gallery": [
+      "assets/img/products/outer-canvas-1.webp",
+      "assets/img/products/outer-canvas-2.webp",
+      "assets/img/products/outer-canvas-3.webp"
+    ],
+    "label": "Produk Baru",
+    "description": "Luaran ringan dengan bahan kanvas untuk tampilan santai yang tetap berkarakter.",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Khaki",
+      "Cokelat",
+      "Krem"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Batik Modern Pria",
+    "category": "Kemeja",
+    "price": "Rp185.000",
+    "image": "assets/img/products/batik-modern-1.webp",
+    "gallery": [
+      "assets/img/products/batik-modern-1.webp",
+      "assets/img/products/batik-modern-2.webp",
+      "assets/img/products/batik-modern-3.webp"
+    ],
+    "label": "Terlaris",
+    "description": "Batik modern dengan motif elegan untuk acara formal maupun semi formal.",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Cokelat",
+      "Emas",
+      "Hitam"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Seragam Komunitas",
+    "category": "Seragam",
+    "price": "Mulai Rp150.000",
+    "image": "assets/img/products/seragam-komunitas-1.webp",
+    "gallery": [
+      "assets/img/products/seragam-komunitas-1.webp",
+      "assets/img/products/seragam-komunitas-2.webp",
+      "assets/img/products/seragam-komunitas-3.webp",
+      "assets/img/products/seragam-komunitas-4.webp"
+    ],
+    "label": "Kustom",
+    "description": "Seragam komunitas dengan desain yang bisa disesuaikan identitas kelompok.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Oranye",
+      "Hitam",
+      "Cokelat"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Jaket Hoodie Gaya Jalanan",
+    "category": "Luaran",
+    "price": "Rp225.000",
+    "image": "assets/img/products/hoodie-streetwear-1.webp",
+    "gallery": [
+      "assets/img/products/hoodie-streetwear-1.webp",
+      "assets/img/products/hoodie-streetwear-2.webp",
+      "assets/img/products/hoodie-streetwear-3.webp"
+    ],
+    "label": "Produk Baru",
+    "description": "Jaket hoodie bergaya jalanan dengan siluet santai dan detail kustom untuk gaya harian.",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Cokelat",
+      "Oranye"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Tas Jinjing",
+    "category": "Aksesoris",
+    "price": "Rp65.000",
+    "image": "assets/img/products/totebag-fashion-1.webp",
+    "gallery": [
+      "assets/img/products/totebag-fashion-1.webp",
+      "assets/img/products/totebag-fashion-2.webp",
+      "assets/img/products/totebag-fashion-3.webp"
+    ],
+    "label": "Penawaran Terbaik",
+    "description": "Tas jinjing untuk aktivitas harian, acara, dan cendera mata komunitas.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Emas",
+      "Krem",
+      "Cokelat"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Polo Kustom",
+    "category": "Kaos",
+    "price": "Rp135.000",
+    "image": "assets/img/products/polo-shirt-1.webp",
+    "gallery": [
+      "assets/img/products/polo-shirt-1.webp",
+      "assets/img/products/polo-shirt-2.webp",
+      "assets/img/products/polo-shirt-3.webp"
+    ],
+    "label": "Produk Baru",
+    "description": "Polo dengan detail rapi untuk seragam, komunitas, acara, dan aktivitas semi formal.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Setelan Olahraga Kasual",
+    "category": "Luaran",
+    "price": "Rp245.000",
+    "image": "assets/img/products/tracksuit-1.webp",
+    "gallery": [
+      "assets/img/products/tracksuit-1.webp",
+      "assets/img/products/tracksuit-2.webp",
+      "assets/img/products/tracksuit-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Setelan olahraga kasual dengan aksen warna berkarakter untuk tim, komunitas, dan aktivitas luar ruang.",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Emas"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Topi Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "image": "assets/img/products/topi-1.webp",
+    "gallery": [
+      "assets/img/products/topi-1.webp",
+      "assets/img/products/topi-2.webp",
+      "assets/img/products/topi-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Topi kustom untuk komunitas, acara, cendera mata, dan kebutuhan promosi merek.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Putih",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Kaos Kaki Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "image": "assets/img/products/kaos-kaki-1.webp",
+    "gallery": [
+      "assets/img/products/kaos-kaki-1.webp",
+      "assets/img/products/kaos-kaki-2.webp",
+      "assets/img/products/kaos-kaki-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Kaos kaki kustom untuk kebutuhan olahraga, komunitas, dan cendera mata.",
+    "sizes": [
+      "Semua Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Putih",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Celana Pendek Kasual",
+    "category": "Celana",
+    "price": "Hubungi Kami",
+    "image": "assets/img/products/celana-pendek-1.webp",
+    "gallery": [
+      "assets/img/products/celana-pendek-1.webp",
+      "assets/img/products/celana-pendek-2.webp",
+      "assets/img/products/celana-pendek-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Celana pendek kasual untuk aktivitas harian, olahraga ringan, dan kebutuhan komunitas.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Biru Tua",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Celana Panjang Kasual",
+    "category": "Celana",
+    "price": "Hubungi Kami",
+    "image": "assets/img/products/celana-panjang-1.webp",
+    "gallery": [
+      "assets/img/products/celana-panjang-1.webp",
+      "assets/img/products/celana-panjang-2.webp",
+      "assets/img/products/celana-panjang-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Celana panjang kasual dengan opsi kustom untuk seragam, acara, dan aktivitas harian.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Krem",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Ransel Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "image": "assets/img/products/ransel-1.webp",
+    "gallery": [
+      "assets/img/products/ransel-1.webp",
+      "assets/img/products/ransel-2.webp",
+      "assets/img/products/ransel-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Ransel kustom untuk sekolah, komunitas, kantor, promosi, dan cendera mata merek.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Biru Tua",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Tas Olahraga",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "image": "assets/img/products/tas-olahraga-1.webp",
+    "gallery": [
+      "assets/img/products/tas-olahraga-1.webp",
+      "assets/img/products/tas-olahraga-2.webp",
+      "assets/img/products/tas-olahraga-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Tas olahraga kustom untuk tim, komunitas, sekolah, dan acara olahraga.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Gelang Tangan Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "image": "assets/img/products/hand-band-1.webp",
+    "gallery": [
+      "assets/img/products/hand-band-1.webp",
+      "assets/img/products/hand-band-2.webp",
+      "assets/img/products/hand-band-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Gelang tangan kustom untuk acara, komunitas, olahraga, dan identitas merek.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Putih",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Tali ID Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "image": "assets/img/products/lanyard-1.webp",
+    "gallery": [
+      "assets/img/products/lanyard-1.webp",
+      "assets/img/products/lanyard-2.webp",
+      "assets/img/products/lanyard-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Tali ID kustom untuk kantor, sekolah, acara, panitia, dan cendera mata promosi.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Botol Minum Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "image": "assets/img/products/botol-minum-1.webp",
+    "gallery": [
+      "assets/img/products/botol-minum-1.webp",
+      "assets/img/products/botol-minum-2.webp",
+      "assets/img/products/botol-minum-3.webp"
+    ],
+    "label": "Kustom",
+    "description": "Botol minum kustom untuk suvenir, acara, komunitas, kantor, dan kebutuhan promosi.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Putih",
+      "Kustom"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Kaos Lengan Panjang",
+    "category": "Kaos",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Kaos lengan panjang untuk kebutuhan harian, komunitas, acara, dan promosi merek.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Putih",
+      "Kustom"
+    ],
+    "image": "assets/img/products/kaos-lengan-panjang-1.webp",
+    "gallery": [
+      "assets/img/products/kaos-lengan-panjang-1.webp",
+      "assets/img/products/kaos-lengan-panjang-2.webp",
+      "assets/img/products/kaos-lengan-panjang-3.webp"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Kaos Oversize",
+    "category": "Kaos",
+    "price": "Hubungi Kami",
+    "label": "Produk Baru",
+    "description": "Kaos oversize dengan potongan santai untuk gaya harian, komunitas, dan produk kustom.",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Putih",
+      "Cokelat"
+    ],
+    "image": "assets/img/products/kaos-oversize-1.webp",
+    "gallery": [
+      "assets/img/products/kaos-oversize-1.webp",
+      "assets/img/products/kaos-oversize-2.webp",
+      "assets/img/products/kaos-oversize-3.webp"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Kemeja Kerja",
+    "category": "Kemeja",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Kemeja kerja rapi untuk kantor, usaha, panitia, dan seragam tim.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Putih",
+      "Krem"
+    ],
+    "image": "assets/img/products/kemeja-kerja-1.webp",
+    "gallery": [
+      "assets/img/products/kemeja-kerja-1.webp",
+      "assets/img/products/kemeja-kerja-2.webp",
+      "assets/img/products/kemeja-kerja-3.webp"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Kemeja Flanel",
+    "category": "Kemeja",
+    "price": "Hubungi Kami",
+    "label": "Produk Baru",
+    "description": "Kemeja flanel untuk tampilan kasual yang hangat, rapi, dan mudah dipadukan.",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Merah",
+      "Cokelat",
+      "Kustom"
+    ],
+    "image": "assets/img/products/kemeja-flanel-1.webp",
+    "gallery": [
+      "assets/img/products/kemeja-flanel-1.webp",
+      "assets/img/products/kemeja-flanel-2.webp",
+      "assets/img/products/kemeja-flanel-3.webp"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Jaket Bomber",
+    "category": "Luaran",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jaket bomber untuk komunitas, seragam usaha, acara, dan identitas merek.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Biru Tua",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jaket-bomber-1.webp",
+    "gallery": [
+      "assets/img/products/jaket-bomber-1.webp",
+      "assets/img/products/jaket-bomber-2.webp",
+      "assets/img/products/jaket-bomber-3.webp"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Jaket Varsity",
+    "category": "Luaran",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jaket varsity untuk komunitas, sekolah, kampus, dan koleksi identitas kelompok.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Krem",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jaket-varsity-1.webp",
+    "gallery": [
+      "assets/img/products/jaket-varsity-1.webp",
+      "assets/img/products/jaket-varsity-2.webp",
+      "assets/img/products/jaket-varsity-3.webp"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Jaket Coach",
+    "category": "Luaran",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jaket coach ringan untuk tim, komunitas, dan kegiatan luar ruang.",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Biru Tua",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jaket-coach-1.webp",
+    "gallery": [
+      "assets/img/products/jaket-coach-1.webp",
+      "assets/img/products/jaket-coach-2.webp",
+      "assets/img/products/jaket-coach-3.webp"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Rompi Kustom",
+    "category": "Luaran",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Rompi kustom untuk panitia, komunitas, lapangan kerja, dan kebutuhan identitas acara.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Kustom"
+    ],
+    "image": "assets/img/products/rompi-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/rompi-kustom-1.webp",
+      "assets/img/products/rompi-kustom-2.webp",
+      "assets/img/products/rompi-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Celana Jogger",
+    "category": "Celana",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Celana jogger untuk aktivitas santai, olahraga ringan, dan kebutuhan komunitas.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Biru Tua",
+      "Kustom"
+    ],
+    "image": "assets/img/products/celana-jogger-1.webp",
+    "gallery": [
+      "assets/img/products/celana-jogger-1.webp",
+      "assets/img/products/celana-jogger-2.webp",
+      "assets/img/products/celana-jogger-3.webp"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Celana Training",
+    "category": "Celana",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Celana training untuk tim olahraga, sekolah, komunitas, dan aktivitas harian.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Kustom"
+    ],
+    "image": "assets/img/products/celana-training-1.webp",
+    "gallery": [
+      "assets/img/products/celana-training-1.webp",
+      "assets/img/products/celana-training-2.webp",
+      "assets/img/products/celana-training-3.webp"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Seragam Kerja",
+    "category": "Seragam",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Seragam kerja untuk kantor, toko, usaha, tim lapangan, dan kebutuhan operasional.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Cokelat",
+      "Kustom"
+    ],
+    "image": "assets/img/products/seragam-kerja-1.webp",
+    "gallery": [
+      "assets/img/products/seragam-kerja-1.webp",
+      "assets/img/products/seragam-kerja-2.webp",
+      "assets/img/products/seragam-kerja-3.webp"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Almamater Kustom",
+    "category": "Seragam",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Almamater kustom untuk sekolah, kampus, organisasi, dan komunitas resmi.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Biru Tua",
+      "Hijau",
+      "Kustom"
+    ],
+    "image": "assets/img/products/almamater-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/almamater-kustom-1.webp",
+      "assets/img/products/almamater-kustom-2.webp",
+      "assets/img/products/almamater-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Apron Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Apron kustom untuk kafe, dapur, usaha kuliner, acara, dan kebutuhan promosi.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Cokelat",
+      "Kustom"
+    ],
+    "image": "assets/img/products/apron-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/apron-kustom-1.webp",
+      "assets/img/products/apron-kustom-2.webp",
+      "assets/img/products/apron-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Pouch Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Pouch kustom untuk cendera mata, acara, komunitas, dan paket promosi merek.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Krem",
+      "Kustom"
+    ],
+    "image": "assets/img/products/pouch-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/pouch-kustom-1.webp",
+      "assets/img/products/pouch-kustom-2.webp",
+      "assets/img/products/pouch-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "PDL Kustom",
+    "category": "Seragam",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Pakaian Dinas Lapangan kustom untuk instansi, organisasi, komunitas, dan tim operasional.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Khaki",
+      "Hijau",
+      "Biru Tua",
+      "Kustom"
+    ],
+    "image": "assets/img/products/pdl-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/pdl-kustom-1.webp",
+      "assets/img/products/pdl-kustom-2.webp",
+      "assets/img/products/pdl-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "PDH Kustom",
+    "category": "Seragam",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Pakaian Dinas Harian kustom dengan tampilan rapi untuk kantor, instansi, dan organisasi.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Putih",
+      "Khaki",
+      "Biru Tua",
+      "Kustom"
+    ],
+    "image": "assets/img/products/pdh-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/pdh-kustom-1.webp",
+      "assets/img/products/pdh-kustom-2.webp",
+      "assets/img/products/pdh-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Celana Cargo Pendek",
+    "category": "Celana",
+    "price": "Hubungi Kami",
+    "label": "Produk Baru",
+    "description": "Celana cargo pendek untuk aktivitas lapangan, komunitas, dan gaya kasual yang praktis.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Khaki",
+      "Hijau",
+      "Kustom"
+    ],
+    "image": "assets/img/products/celana-cargo-pendek-1.webp",
+    "gallery": [
+      "assets/img/products/celana-cargo-pendek-1.webp",
+      "assets/img/products/celana-cargo-pendek-2.webp",
+      "assets/img/products/celana-cargo-pendek-3.webp"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Celana Cargo Panjang",
+    "category": "Celana",
+    "price": "Hubungi Kami",
+    "label": "Produk Baru",
+    "description": "Celana cargo panjang dengan kantong fungsional untuk kebutuhan harian, outdoor, dan tim lapangan.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Khaki",
+      "Hijau",
+      "Kustom"
+    ],
+    "image": "assets/img/products/celana-cargo-panjang-1.webp",
+    "gallery": [
+      "assets/img/products/celana-cargo-panjang-1.webp",
+      "assets/img/products/celana-cargo-panjang-2.webp",
+      "assets/img/products/celana-cargo-panjang-3.webp"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Celana Tactical",
+    "category": "Celana",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Celana tactical untuk kebutuhan lapangan, komunitas outdoor, keamanan, dan operasional.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Hijau Army",
+      "Biru Tua",
+      "Kustom"
+    ],
+    "image": "assets/img/products/celana-tactical-1.webp",
+    "gallery": [
+      "assets/img/products/celana-tactical-1.webp",
+      "assets/img/products/celana-tactical-2.webp",
+      "assets/img/products/celana-tactical-3.webp"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jersey Bola",
+    "category": "Jersi",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jersey bola kustom untuk klub, sekolah, komunitas, turnamen, dan event olahraga.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Merah",
+      "Biru",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jersey-bola-1.webp",
+    "gallery": [
+      "assets/img/products/jersey-bola-1.webp",
+      "assets/img/products/jersey-bola-2.webp",
+      "assets/img/products/jersey-bola-3.webp"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Jersey Voli",
+    "category": "Jersi",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jersey voli kustom dengan bahan nyaman untuk latihan, pertandingan, dan identitas tim.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Biru",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jersey-voli-1.webp",
+    "gallery": [
+      "assets/img/products/jersey-voli-1.webp",
+      "assets/img/products/jersey-voli-2.webp",
+      "assets/img/products/jersey-voli-3.webp"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Jersi Basket",
+    "category": "Jersi",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jersi basket kustom untuk tim, sekolah, komunitas, dan kompetisi olahraga.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Putih",
+      "Merah",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jersi-basket-1.webp",
+    "gallery": [
+      "assets/img/products/jersi-basket-1.webp",
+      "assets/img/products/jersi-basket-2.webp",
+      "assets/img/products/jersi-basket-3.webp"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Jersi Futsal",
+    "category": "Jersi",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jersi futsal kustom untuk tim kecil, turnamen, komunitas, dan acara olahraga.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Biru",
+      "Oranye",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jersi-futsal-1.webp",
+    "gallery": [
+      "assets/img/products/jersi-futsal-1.webp",
+      "assets/img/products/jersi-futsal-2.webp",
+      "assets/img/products/jersi-futsal-3.webp"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Jersi Badminton",
+    "category": "Jersi",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jersi badminton kustom yang ringan untuk klub, sekolah, turnamen, dan komunitas olahraga.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Hijau",
+      "Kuning",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jersi-badminton-1.webp",
+    "gallery": [
+      "assets/img/products/jersi-badminton-1.webp",
+      "assets/img/products/jersi-badminton-2.webp",
+      "assets/img/products/jersi-badminton-3.webp"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Jersi Sepeda",
+    "category": "Jersi",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jersi sepeda kustom untuk komunitas gowes, event, dan identitas tim bersepeda.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Biru",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jersi-sepeda-1.webp",
+    "gallery": [
+      "assets/img/products/jersi-sepeda-1.webp",
+      "assets/img/products/jersi-sepeda-2.webp",
+      "assets/img/products/jersi-sepeda-3.webp"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Jersi Lari",
+    "category": "Jersi",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jersi lari kustom untuk komunitas running, event fun run, dan tim olahraga.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Putih",
+      "Hitam",
+      "Hijau",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jersi-lari-1.webp",
+    "gallery": [
+      "assets/img/products/jersi-lari-1.webp",
+      "assets/img/products/jersi-lari-2.webp",
+      "assets/img/products/jersi-lari-3.webp"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Jersi Esports",
+    "category": "Jersi",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jersi esports kustom untuk tim gaming, komunitas, event, dan merchandise brand.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Hitam",
+      "Ungu",
+      "Biru",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jersi-esports-1.webp",
+    "gallery": [
+      "assets/img/products/jersi-esports-1.webp",
+      "assets/img/products/jersi-esports-2.webp",
+      "assets/img/products/jersi-esports-3.webp"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Korsa Kustom",
+    "category": "Seragam",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Korsa kustom untuk organisasi, kampus, komunitas, panitia, dan identitas kelompok.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Biru Tua",
+      "Hitam",
+      "Marun",
+      "Kustom"
+    ],
+    "image": "assets/img/products/korsa-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/korsa-kustom-1.webp",
+      "assets/img/products/korsa-kustom-2.webp",
+      "assets/img/products/korsa-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Wearpack Kustom",
+    "category": "Seragam",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Wearpack kustom untuk bengkel, teknisi, produksi, komunitas otomotif, dan tim lapangan.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Biru Tua",
+      "Oranye",
+      "Hitam",
+      "Kustom"
+    ],
+    "image": "assets/img/products/wearpack-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/wearpack-kustom-1.webp",
+      "assets/img/products/wearpack-kustom-2.webp",
+      "assets/img/products/wearpack-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Jas Lab Kustom",
+    "category": "Seragam",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Jas lab kustom untuk sekolah, kampus, klinik, laboratorium, dan kebutuhan institusi.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Putih",
+      "Biru Muda",
+      "Kustom"
+    ],
+    "image": "assets/img/products/jas-lab-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/jas-lab-kustom-1.webp",
+      "assets/img/products/jas-lab-kustom-2.webp",
+      "assets/img/products/jas-lab-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Rompi Safety",
+    "category": "Seragam",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Rompi safety untuk lapangan, panitia, proyek, event, dan kebutuhan operasional luar ruang.",
+    "sizes": [
+      "Satu Ukuran",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Oranye",
+      "Kuning",
+      "Hijau Stabilo",
+      "Kustom"
+    ],
+    "image": "assets/img/products/rompi-safety-1.webp",
+    "gallery": [
+      "assets/img/products/rompi-safety-1.webp",
+      "assets/img/products/rompi-safety-2.webp",
+      "assets/img/products/rompi-safety-3.webp"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Tas Selempang Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Tas selempang kustom untuk komunitas, promosi, merchandise, dan aktivitas harian.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Cokelat",
+      "Kustom"
+    ],
+    "image": "assets/img/products/tas-selempang-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/tas-selempang-kustom-1.webp",
+      "assets/img/products/tas-selempang-kustom-2.webp",
+      "assets/img/products/tas-selempang-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Tas Pinggang Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Tas pinggang kustom untuk event, komunitas, perjalanan, dan merchandise brand.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Biru Tua",
+      "Kustom"
+    ],
+    "image": "assets/img/products/tas-pinggang-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/tas-pinggang-kustom-1.webp",
+      "assets/img/products/tas-pinggang-kustom-2.webp",
+      "assets/img/products/tas-pinggang-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Bucket Hat Kustom",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Bucket hat kustom untuk komunitas, event, merchandise, dan gaya kasual.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Krem",
+      "Kustom"
+    ],
+    "image": "assets/img/products/bucket-hat-kustom-1.webp",
+    "gallery": [
+      "assets/img/products/bucket-hat-kustom-1.webp",
+      "assets/img/products/bucket-hat-kustom-2.webp",
+      "assets/img/products/bucket-hat-kustom-3.webp"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Buff Multifungsi",
+    "category": "Aksesoris",
+    "price": "Hubungi Kami",
+    "label": "Kustom",
+    "description": "Buff multifungsi kustom untuk olahraga, komunitas motor, event, dan aktivitas luar ruang.",
+    "sizes": [
+      "Satu Ukuran"
+    ],
+    "colors": [
+      "Hitam",
+      "Oranye",
+      "Kustom"
+    ],
+    "image": "assets/img/products/buff-multifungsi-1.webp",
+    "gallery": [
+      "assets/img/products/buff-multifungsi-1.webp",
+      "assets/img/products/buff-multifungsi-2.webp",
+      "assets/img/products/buff-multifungsi-3.webp"
+    ]
+  }
+]

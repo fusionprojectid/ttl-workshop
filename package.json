@@ -1,0 +1,10 @@
+{
+  "name": "tritunggal-lancar-static",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "tinycss": "node tools/tinycss.mjs",
+    "webp": "node tools/optimize-site.mjs --images-only",
+    "optimize": "node tools/optimize-site.mjs"
+  }
+}

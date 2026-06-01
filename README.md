@@ -1,6 +1,6 @@
-# Tritunggal Lancar
+# Tritunggal Lancar Workshop
 
-Website katalog statis untuk Tritunggal Lancar. Dibuat dengan HTML5, CSS3, JavaScript vanilla, data JSON, dan path relatif agar mudah dipublikasikan ke GitHub Pages.
+Website katalog statis untuk Tritunggal Lancar Workshop. Dibuat dengan HTML5, CSS3, JavaScript vanilla, data JSON, dan path relatif agar mudah dipublikasikan ke GitHub Pages.
 
 ## Struktur
 

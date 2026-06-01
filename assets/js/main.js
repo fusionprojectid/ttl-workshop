@@ -1,5 +1,5 @@
 const whatsappNumber = "6281333418777";
-const dataVersion = "20260601-expanded-products";
+const dataVersion = "20260601-footer-category-lookbook";
 const productsPerPage = 8;
 const categoryAliases = {
   All: "Semua",
@@ -1441,7 +1441,7 @@ const fallbackPosts = [
       "Kaos yang baik adalah kaos yang tidak hanya terlihat bagus, tetapi juga mendukung aktivitas pemakainya.",
       "Penutup",
       "Memilih kaos yang nyaman untuk aktivitas harian perlu memperhatikan bahan, ukuran, jahitan, warna, dan fungsi pemakaian. Dengan pilihan yang tepat, kaos bisa menjadi gaya berpakaian sederhana yang tetap nyaman, rapi, dan bergaya.",
-      "Tritunggal Lancar menghadirkan pilihan busana yang nyaman dan berkarakter untuk kebutuhan harian, komunitas, maupun produk kustom. Dengan desain yang fleksibel dan bahan yang nyaman, setiap produk dibuat agar cocok digunakan dalam berbagai aktivitas."
+      "Tritunggal Lancar Workshop menghadirkan pilihan busana yang nyaman dan berkarakter untuk kebutuhan harian, komunitas, maupun produk kustom. Dengan desain yang fleksibel dan bahan yang nyaman, setiap produk dibuat agar cocok digunakan dalam berbagai aktivitas."
     ]
   },
   {
@@ -1479,7 +1479,7 @@ const fallbackPosts = [
       "Penutup",
       "Merawat kaos sablon sebenarnya tidak sulit. Cukup balik kaos saat mencuci, hindari menyikat bagian sablon, gunakan deterjen secukupnya, jangan rendam terlalu lama, jemur dengan benar, dan hindari menyetrika langsung di atas sablon.",
       "Dengan perawatan yang tepat, kaos sablon akan tetap nyaman dipakai, warna lebih tahan lama, dan desainnya tetap terlihat menarik.",
-      "Tritunggal Lancar menghadirkan produk busana dan produk kustom yang dibuat untuk kebutuhan harian, komunitas, maupun acara. Dengan bahan yang nyaman dan desain yang berkarakter, setiap kaos bisa menjadi pilihan tepat untuk tampil rapi dan percaya diri."
+      "Tritunggal Lancar Workshop menghadirkan produk busana dan produk kustom yang dibuat untuk kebutuhan harian, komunitas, maupun acara. Dengan bahan yang nyaman dan desain yang berkarakter, setiap kaos bisa menjadi pilihan tepat untuk tampil rapi dan percaya diri."
     ]
   },
   {
@@ -1524,7 +1524,7 @@ const fallbackPosts = [
       "Penutup",
       "Gaya Berpakaian kasual untuk anak muda tidak harus rumit. Dengan kaos dasar, kemeja kasual, jaket hoodie, luaran kanvas, jersi kustom, atau batik modern, kamu bisa tampil nyaman sekaligus berkarakter.",
       "Yang terpenting adalah memilih bahan yang nyaman, ukuran yang pas, dan warna yang mudah dipadukan. Dengan kombinasi yang tepat, gaya berpakaian sederhana pun bisa terlihat lebih bergaya.",
-      "Tritunggal Lancar menghadirkan pilihan busana untuk kebutuhan harian, komunitas, dan produk kustom. Setiap produk dibuat agar nyaman dipakai dan mudah dipadukan dengan gaya anak muda masa kini."
+      "Tritunggal Lancar Workshop menghadirkan pilihan busana untuk kebutuhan harian, komunitas, dan produk kustom. Setiap produk dibuat agar nyaman dipakai dan mudah dipadukan dengan gaya anak muda masa kini."
     ]
   },
   {
@@ -1569,7 +1569,7 @@ const fallbackPosts = [
       "Penutup",
       "Seragam komunitas perlu desain yang berkarakter karena berfungsi sebagai identitas, simbol kekompakan, media mereking, dan pembeda dari komunitas lain. Desain yang baik membuat komunitas terlihat lebih solid, profesional, dan mudah dikenali.",
       "Dalam membuat seragam, perhatikan warna, logo, bahan, ukuran, serta kenyamanan pemakai. Jangan hanya fokus pada tampilan, tetapi pastikan seragam juga enak dipakai untuk berbagai aktivitas.",
-      "Tritunggal Lancar menghadirkan layanan busana dan produk kustom untuk kebutuhan komunitas, organisasi, acara, dan merek lokal. Dengan desain yang nyaman, rapi, dan berkarakter, seragam komunitas bisa tampil lebih kuat dan percaya diri."
+      "Tritunggal Lancar Workshop menghadirkan layanan busana dan produk kustom untuk kebutuhan komunitas, organisasi, acara, dan merek lokal. Dengan desain yang nyaman, rapi, dan berkarakter, seragam komunitas bisa tampil lebih kuat dan percaya diri."
     ]
   }
 ];
@@ -1659,10 +1659,10 @@ const setJsonLd = (id, data) => {
 };
 
 const updateBlogSeo = (post) => {
-  const title = `${post.title} - Tritunggal Lancar`;
-  const description = post.excerpt || "Baca artikel busana dari Tritunggal Lancar.";
+  const title = `${post.title} - Tritunggal Lancar Workshop`;
+  const description = post.excerpt || "Baca artikel busana dari Tritunggal Lancar Workshop.";
   const url = absoluteUrl(`blog-detail.html?id=${post.id}`);
-  const image = absoluteUrl(post.image);
+  const image = absoluteUrl("assets/img/og-image.jpg");
 
   document.title = title;
   setCanonicalUrl(url);
@@ -1672,9 +1672,14 @@ const updateBlogSeo = (post) => {
   setMetaContent("property", "og:description", description);
   setMetaContent("property", "og:url", url);
   setMetaContent("property", "og:image", image);
+  setMetaContent("property", "og:image:width", "1200");
+  setMetaContent("property", "og:image:height", "630");
+  setMetaContent("property", "og:image:type", "image/jpeg");
+  setMetaContent("property", "og:image:alt", "Tritunggal Lancar Workshop - Fashion yang Nyaman, Desain yang Berkarakter");
   setMetaContent("name", "twitter:title", title);
   setMetaContent("name", "twitter:description", description);
   setMetaContent("name", "twitter:image", image);
+  setMetaContent("name", "twitter:image:alt", "Tritunggal Lancar Workshop - Fashion yang Nyaman, Desain yang Berkarakter");
 
   setJsonLd("article-jsonld", {
     "@context": "https://schema.org",
@@ -1685,11 +1690,11 @@ const updateBlogSeo = (post) => {
     "mainEntityOfPage": url,
     "author": {
       "@type": "Organization",
-      "name": "Tritunggal Lancar"
+      "name": "Tritunggal Lancar Workshop"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Tritunggal Lancar",
+      "name": "Tritunggal Lancar Workshop",
       "logo": {
         "@type": "ImageObject",
         "url": absoluteUrl("assets/img/logo.png")
@@ -1706,7 +1711,7 @@ const getProductGallery = (product) => {
 const getWhatsAppUrl = (productName = "", details = {}) => {
   const productLine = productName ? `Produk: ${productName}` : "Produk:";
   const message = [
-    "Halo Tritunggal Lancar, saya mau pesan:",
+    "Halo Tritunggal Lancar Workshop, saya mau pesan:",
     productLine,
     `Ukuran: ${details.size || ""}`,
     `Warna: ${details.color || ""}`,
@@ -1763,10 +1768,33 @@ const setupNavigation = () => {
   const menu = document.querySelector(".nav-menu");
 
   if (toggle && menu) {
-    toggle.addEventListener("click", () => {
+    const closeMenu = () => {
+      menu.classList.remove("is-open");
+      toggle.setAttribute("aria-expanded", "false");
+      toggle.innerHTML = '<i class="fa-solid fa-bars"></i>';
+    };
+
+    toggle.addEventListener("click", (event) => {
+      event.stopPropagation();
       const isOpen = menu.classList.toggle("is-open");
       toggle.setAttribute("aria-expanded", String(isOpen));
       toggle.innerHTML = isOpen ? '<i class="fa-solid fa-xmark"></i>' : '<i class="fa-solid fa-bars"></i>';
+    });
+
+    menu.querySelectorAll("a").forEach((link) => {
+      link.addEventListener("click", closeMenu);
+    });
+
+    document.addEventListener("click", (event) => {
+      if (!menu.classList.contains("is-open")) return;
+      if (event.target.closest(".nav-menu") || event.target.closest(".nav-toggle")) return;
+      closeMenu();
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        closeMenu();
+      }
     });
   }
 
